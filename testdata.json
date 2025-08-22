@@ -1,0 +1,25 @@
+{
+    "username": "thanhnp.sv1293",
+    "password": "1",
+    "email": "thanhnp+thanhnp.sv1293@onschool.edu.vn",
+    
+    "wrong_username": "thanhnp.sv12931293",
+    "wrong_password": "1293",
+    "wrong_format_email": "thanhnp+thanhnp.sv1293",
+    "wrong_email": "thanhnp+thanhnp.sv12931293@onschool.edu.vnn",
+
+    "newPassword": "Hello@123",
+    "newPassword2": "Hello@1234",
+    "password_without_uppercase": "abcd@123",
+    "password_without_lowercase": "ABCD@123",
+    "password_without_number": "abcd@ABC",
+    "password_without_special": "abcde123",
+    "password_without_count": "Abcd@12",
+
+    "avatar": "__dirname, '../upload_files/picture1.jpg'",
+    "oversize_avatar": "__dirname, '../upload_files/picture2.jpg'",
+    "format_avatar": "__dirname, '../upload_files/picture3.jpg'",
+
+    "subject": "NPT16",
+    "wrong_subject": "abc"
+}
